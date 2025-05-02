@@ -1,0 +1,6 @@
+@Core_APICache_Art_HostAddress = http://localhost:5072
+
+GET {{Core_APICache_Art_HostAddress}}/api/department/20
+Accept: application/json
+
+###
